@@ -1,0 +1,7 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\MyStringTest\bin\Debug\MyStringTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\MyStringTest\bin\Debug\MyStringTest.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\MyStringTest\bin\Debug\Strings.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\MyStringTest\bin\Debug\Strings.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\MyStringTest\obj\Debug\MyStringTest.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\MyStringTest\obj\Debug\MyStringTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\MyStringTest\obj\Debug\MyStringTest.pdb

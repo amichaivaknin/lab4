@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\Strings\bin\Debug\Strings.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\Strings\bin\Debug\Strings.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\Strings\bin\Debug\Strings.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\Strings\obj\Debug\Strings.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab4\Strings\obj\Debug\Strings.pdb
