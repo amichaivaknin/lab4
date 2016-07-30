@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 namespace Strings
 {
+    //Consider a better name
     public class MyString
     {
         readonly string[] _words;
 
         public MyString(string s)
         {
+            //What about other white space chars? Or multiple of them?
             _words = s.Split(' ');
         }
 
+        //Consider the use of String.Builder.
         public string Reverse()
         {
             var ret = "";
