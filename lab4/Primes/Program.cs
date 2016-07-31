@@ -14,10 +14,19 @@ namespace Primes
             var primes = new ArrayList();
             while (i < j)
             {
+                //1.consider the use of better names
+                //2. is this a flag? Why it isn't a boolean?
                 var fl = 0;
+
+                //Actually you can stop at sqrt(i)
                 for (var k = 2; k <= i/2; k++)
                 {
-                    if (i%k != 0) continue;
+                    //1. The convention in C# is to start body-expressions in a seperate line with bracets, even for one liners.
+                    //2. You don't need to continue...'else' will do the job.
+                    if (i%k != 0)
+                    {
+                        continue;
+                    }
                     fl = 1;
                     break;
                 }
@@ -41,6 +50,8 @@ namespace Primes
             
             Console.WriteLine("Enter two numbers");
             var readLine = Console.ReadLine();
+
+            //Consider string.IsNullOrEmpty
             if (readLine != null)
             {
                 string[] numbers = readLine.Split();
